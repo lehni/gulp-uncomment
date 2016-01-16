@@ -1,0 +1,23 @@
+{
+  "name": "gulp-uncomment",
+  "version": "0.2.0",
+  "main": "index.js",
+  "description": "Strips comments out of JavaScript code.",
+  "author": "Jürg Lehni <juerg@scratchdisk.com> (http://scratchdisk.com)",
+  "license": "MIT",
+  "dependencies": {
+    "uncomment": "^0.2.0",
+    "through2": "^2.0.0"
+  },
+  "homepage": "https://github.com/lehni/gulp-uncomment",
+  "repository": "https://github.com/lehni/gulp-uncomment.git",
+  "bugs": "https://github.com/lehni/gulp-uncomment/issues",
+  "keywords": [
+    "gulpplugin",
+    "javascript",
+    "strip",
+    "comment",
+    "comments",
+    "remove"
+  ]
+}
